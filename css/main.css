@@ -1,0 +1,163 @@
+* {
+	box-sizing:border-box;
+	margin: 0;
+	padding: 0;
+	
+}
+/*----------------------Header--------------------*/
+.logotipo {
+	background-image: url("../img/ecomunidad-logo.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width:120px;
+	height:120px;
+
+}
+a {
+	padding: 0px 30px;
+	text-decoration: none;
+	color:#AB9F9D;
+	
+}
+.border {
+	border-right: 1px solid #AB9F9D;
+}
+nav {
+	padding:50px 0px;
+}
+h2 {
+	padding:20px 0px;
+	text-align:center;
+}
+
+/*----------------------Banner--------------------*/
+.banner {
+	background-image: url("../img/semilla.jpg");
+	background-position: 0px -230px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+    height:450px;
+}
+/*----------------------Seccion1--------------------*/
+.textouno {
+	
+	padding:60px 230px;
+	text-align:center;
+}
+.mision {
+	text-align: center;
+	padding:50px;
+}
+.foto {
+	background-image: url("../img/metodo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:400px;
+}
+.fondo {
+	background-image: url("../img/fondo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:400px;
+	padding:100px;
+	text-align: center;
+	color:white;
+}
+.servicios {
+	text-align: center;
+	padding-top:30px;
+	padding-right:40px;
+	padding-left:40px;
+}
+.serv {
+	padding-bottom:50px;
+}
+.espacio {
+	padding:50px;
+	color:white;
+}
+.content {
+	padding-bottom:50px;
+}
+.fotoproyecto {
+	width: 450px;
+ 	height: 300px;
+ 	margin-left:160px;
+}
+.texto {
+	padding-right:150px;
+	color:white;
+}
+.chicas {
+	text-align:center;
+	padding-bottom:40px;
+}
+.equipo {
+	width:200px;
+	height:200px;
+	border-radius:50%;
+}
+.text {
+	padding:15px 50px;
+}
+.social {
+	width:50px;
+	height:50px;
+	padding:5px;
+}
+.blog {
+
+	background-image: url("../img/fondo2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:550px;
+	padding:60px 120px;
+}
+.fotoblog {
+	width:300px;
+	height:200px;
+}
+.parrafo {
+	padding-right:50px;
+}
+.flecha1{
+	position: absolute;
+	margin-top:200px;
+    left:30px;
+}
+.flecha2{
+	position: absolute;
+	right: 30px;
+	margin-top:200px;
+}
+.relleno {
+	padding:70px 0px;
+	height:350px;
+}
+.redsocial {
+	
+	height:220px;
+	border:1px solid white;
+	color:white;
+}
+.redes {
+	width:50px;
+	height:50px;
+	position:relative;
+	bottom:30px;
+    left: 190px;
+}
+.redsocial h3 {
+	padding:10px;
+}
+.yellow {
+	color:#F7CD43;
+}
+.footer {
+	padding:50px 120px;
+	background-color: #F2F2F2;
+	height:150px;
+}
+.datos {
+	text-align:right;
+}
